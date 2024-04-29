@@ -4,5 +4,4 @@ Welcome to my portfolio! This repository showcases my work, skills, and projects
 
 ## Contact 📬
 
-Feel free to reach out to me via email or connect with me on LinkedIn! Let's chat about web development, cats, or anything else you'd like. 😄
-
+Feel free to reach out to me via email or connect with me on Discord! Let's chat about web development, cats, or anything else you'd like. 😄
